@@ -2,6 +2,7 @@ var ok=0;
 
 function setup() {
   createCanvas(window.innerWidth,window.innerHeight);
+  textSize(height/5);
 }
 
 function draw() {
@@ -10,7 +11,7 @@ function draw() {
   }
   else{
     background(120,0,0);
-    text("Pe ma-ta sa \no scuturi asa",width/2,height/2);
+    text("Pe mă-ta să \no scuturi așa",width/2,height/2);
   }
 }
 
