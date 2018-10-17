@@ -2,7 +2,7 @@ var ok=0;
 
 function setup() {
   createCanvas(window.innerWidth,window.innerHeight);
-  textSize(height/5);
+  textSize(width/20);
   fill(100,200,100);
   stroke(100,200,100);
 }
