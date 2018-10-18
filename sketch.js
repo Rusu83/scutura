@@ -13,7 +13,7 @@ function draw() {
   }
   else{
     background(120,0,0);
-    text("Pe mă-ta să \no scuturi așa",width/2,height/2);
+    text("Handicapată \ne mă-ta și cu mă-ta",width/2,height/2);
   }
 }
 
