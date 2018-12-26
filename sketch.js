@@ -13,7 +13,7 @@ function draw() {
   }
   else{
     background(120,0,0);
-    text("Handicapată \ne mă-ta și cu mă-ta",width/2,height/2);
+    text("Nu ma scutura ca\n dau la rate!",width/2,height/2);
   }
 }
 
